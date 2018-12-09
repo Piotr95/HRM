@@ -1,4 +1,4 @@
-package szczepaniak.microservices.EmployeeAveliability.model;
+package szczepaniak.microservices.EmployeeAvailability.model;
 
 import lombok.Data;
 

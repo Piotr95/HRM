@@ -1,12 +1,12 @@
-package szczepaniak.microservices.EmployeeAveliability;
+package szczepaniak.microservices.EmployeeAvailability;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmployeeAveliabilityApplication {
+public class EmployeeAvailabilityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeeAveliabilityApplication.class, args);
+		SpringApplication.run(EmployeeAvailabilityApplication.class, args);
 	}
 }

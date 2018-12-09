@@ -1,10 +1,10 @@
-package szczepaniak.microservices.EmployeeAveliability.service;
+package szczepaniak.microservices.EmployeeAvailability.service;
 
 import com.google.common.collect.Lists;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import szczepaniak.microservices.EmployeeAveliability.repository.AbsenceRepository;
-import szczepaniak.microservices.EmployeeAveliability.model.Absence;
+import szczepaniak.microservices.EmployeeAvailability.repository.AbsenceRepository;
+import szczepaniak.microservices.EmployeeAvailability.model.Absence;
 
 import javax.persistence.EntityNotFoundException;
 import java.time.LocalDate;

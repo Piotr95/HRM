@@ -1,8 +1,8 @@
-package szczepaniak.microservices.EmployeeAveliability.repository;
+package szczepaniak.microservices.EmployeeAvailability.repository;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
-import szczepaniak.microservices.EmployeeAveliability.model.Absence;
+import szczepaniak.microservices.EmployeeAvailability.model.Absence;
 
 import java.time.LocalDate;
 import java.util.List;

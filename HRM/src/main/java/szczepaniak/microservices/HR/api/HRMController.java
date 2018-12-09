@@ -35,7 +35,7 @@ public class HRMController
 
     @PostMapping("/takeAbsence")
     public String takeAbsence(@RequestBody Absence absence){
-         url = findApplicationUrl("EmployeeAveliability")+"absences";
+         url = findApplicationUrl("EmployeeAvailability")+"absences";
         return restTemplate.postForObject(url, absence, String.class);
     }
 

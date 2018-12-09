@@ -1,4 +1,4 @@
-package szczepaniak.microservices.EmployeeAveliability.infrastructure.config;
+package szczepaniak.microservices.Employeeavailability.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

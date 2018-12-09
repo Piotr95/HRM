@@ -1,10 +1,10 @@
-package szczepaniak.microservices.EmployeeAveliability.controller;
+package szczepaniak.microservices.EmployeeAvailability.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import szczepaniak.microservices.EmployeeAveliability.service.AbsenceService;
-import szczepaniak.microservices.EmployeeAveliability.model.Absence;
+import szczepaniak.microservices.EmployeeAvailability.service.AbsenceService;
+import szczepaniak.microservices.EmployeeAvailability.model.Absence;
 
 import java.util.List;
 

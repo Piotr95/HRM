@@ -10,7 +10,7 @@
 # II. Create the Databases 
 ```
 employee
-aveliability
+availability
 tasks
 office 
 ```
