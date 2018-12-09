@@ -26,7 +26,7 @@ database password test
 ```
 mvn spring-boot:run
 ```
- Order of Aplpications Running :
+ Order of Aplpications running :
  ```
  MicroservicesIntegration -> other applications -> HRM
   ```
