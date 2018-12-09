@@ -22,15 +22,17 @@ database login: root
 database password test
 ```
  # III. Install Lombok plugin in your IDE (if needed)
- # IV Run Aplications from IDE or terminal/cmd by : 
+ # IV Run Applications from IDE or terminal/cmd by : 
 ```
 mvn spring-boot:run
 ```
- # IV For  API  usage  examples  go to :
+ Order of Aplpications Running :
+ ```
+ MicroservicesIntegration -> other applications -> HRM
+  ```
+  # IV For  API  usage  examples  go to :
  http://localhost:(currentAplicationPort)/swagger-ui.html
  
-# IV Open NoteHistory and run it like in III
-
 For  API  usage  examples  go to  http://localhost:3333/swagger-ui.html (API online Documentation)
 
 Useful links : 
